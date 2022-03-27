@@ -1,0 +1,8 @@
+1.pip install pygame
+2.pip install pyttsx3
+3.pip install --upgrade wheel
+4.sudo apt-get update && sudo apt-get install espeak
+5.sudo apt-get remove --purge ffmpeg
+6.sudo apt-add-repository ppa:mc3man/trusty-media
+7.sudo apt-add-repository ppa:jonathonf/ffmpeg-3
+8.sudo apt-get install ffmpeg
